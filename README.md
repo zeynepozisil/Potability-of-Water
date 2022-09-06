@@ -1,6 +1,6 @@
 #  <h1 align="center">:droplet: Potability-of-Water :droplet:
 
-<h1 align="center">![Screenshot](model.png)
+<h1 align="center"> ![Screenshot](model.png)
 
 ## Machine Learning Project
 
